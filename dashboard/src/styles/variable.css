@@ -1,0 +1,28 @@
+:root {
+  --brand-green: #93e9be;
+  --brand-white: #fff;
+  --brand-black: #000000;
+  --brand-grey: #ebeff5;
+  --brand-grey-20: #333333;
+  --brand-grey-40: #666666;
+  --brand-grey-80: #cccccc;
+  --brand-grey-100: #f5f7fa;
+  --brand-grey-120: #f5f5f5;
+  --brand-blue: #4472c4;
+  --brand-blue-100: #d4deea;
+  --brand-button-delete: #e21a37;
+  --brand-secondary: #f0f0f0;
+  --brand-loadingState: #eef0f2;
+  --brand-calendarBg: #f1f4f8;
+  --brand-grey-light: #f1f4f8;
+  --brand-grey-border: #e3e3e3;
+  --brand-range-select: #afe1af;
+  --brand-alert-blue: #0094e8;
+  --brand-alert-blue-15: #d9effc;
+  --brand-alert-green: #15bb5f;
+  --brand-alert-green-15: #dcf5e7;
+  --brand-alert-orange: #ff9f43;
+  --brand-alert-orange-15: #fff1e3;
+  --brand-alert-red: #ea5455;
+  --brand-alert-red-15: #fce6e6;
+}
